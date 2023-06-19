@@ -1,4 +1,5 @@
 # [218. The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/)
+dificuldade : Difícil
 
 O horizonte deve ser representado como uma lista de "pontos-chave" classificados por sua coordenada x no formato [[x1,y1],[x2,y2],...]. Cada ponto-chave é o ponto final esquerdo de algum segmento horizontal no horizonte, exceto o último ponto na lista, que sempre tem uma coordenada y 0 e é usado para marcar o término do horizonte onde termina o edifício mais à direita. Qualquer terreno entre os edifícios mais à esquerda e mais à direita deve fazer parte do contorno do horizonte.
 
