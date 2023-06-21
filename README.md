@@ -44,4 +44,5 @@ Assim que o código for executado, verifique os resultados para confirmar se o e
 
 ## Outros
 [link da apresentação do aluno: Caio Vitor Carneiro](https://youtu.be/VLcx9XsZe_U)
+
 [link da apresentação do aluno: João Pedro Alves Machado](https://youtu.be/N_5FT25Tg2c)
